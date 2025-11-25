@@ -26065,7 +26065,6 @@ log-collector.shopee.vn
 log-dttc.sggp.org.vn
 log-en.nhandan.vn
 log-en.sggp.org.vn
-log-gateway.zoom.us
 log-hl.snssdk.com
 log-ird.outbrain.com
 log-lb.skyperfectv.co.jp
